@@ -1,0 +1,14 @@
+@media only screen 
+  and (min-device-width: 1024px) 
+  and (max-device-width: 1300px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+  	div{
+  		display:none;
+  	}
+  	img{
+  		width:100px;
+  		height:100px;
+  		border-radius:100px;
+  		display:none;
+  	}
+}

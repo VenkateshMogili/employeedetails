@@ -1,0 +1,30 @@
+[
+	{
+		"sno": 1,
+		"name": "Venkatesh",
+		"salary":30000,
+		"position":"Software Engineer",
+		"profile":"profile.jpg"
+	},	
+	{
+		"sno": 2,
+		"name": "Vivek",
+		"salary":30000,
+		"position":"Software Engineer",
+		"profile":"profile.jpg"
+	},
+	{
+		"sno": 3,
+		"name": "Chinni",
+		"salary":30000,
+		"position":"Software Engineer",
+		"profile":"profile.jpg"
+	},
+	{
+		"sno": 4,
+		"name": "Ramani",
+		"salary":30000,
+		"position":"Software Engineer",
+		"profile":"profile.jpg"
+	}
+]
